@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://chrisdothtml.github.io/chrome-dino" target="_blank"><img width="636" src="assets/preview.png" alt="chrome-dino"></a>
+  <a href="https://dustinstanek.github.io/xtc-van" target="_blank"><img width="636" src="assets/preview.png" alt="xtc-van"></a>
   <br>
   <br>
 </h1>
