@@ -5,18 +5,16 @@
   <br>
 </h1>
 
-> Remaking the chrome offline dinosaur game
+>  XTC VAN
 
-Note that this was previously written with p5.js but has since been refactored into a dependency-free approach. You can still see the old p5.js implementation in [the p5js branch](https://github.com/chrisdothtml/chrome-dino/tree/p5js).
+![alt screenshot](https://raw.githubusercontent.com/dustinstanek/xtc-testr/master/XTCVANBANNER.gif)
 
-## Run locally (literally)
+## GAME:
+https://dustinstanek.github.io/xtc-van
 
-```bash
-# install deps
-$ yarn
-# start server
-$ yarn start
-```
+## BASED ON + ISNPIRED BY THE WORK OF LRUSSO's 'MotoRacer'
+
+> XTC VAN game was developed in JavaScript by The Greedy Corporation for Extasy Overnight.
 
 ## License
 
